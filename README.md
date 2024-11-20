@@ -8,11 +8,11 @@
 I'm starting programmer 
 
 
-<h3 align="left">🔥   My states :</h3>
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+
+<h3 align="left">🔥   My states :</h3>
 
 ###
 
