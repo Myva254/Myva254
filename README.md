@@ -2,7 +2,7 @@
 
 ### Hi there 👋, Hi,my name is Daniel
 #### Gordan1303
-![Gordan1303](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gifovs.github.io/github-profile-readme-generator/images/banner.png)
+<img scr="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gifovs.github.io/github-profile-readme-generator/images/banner.png")
 
 I'm starting programmer 
 
