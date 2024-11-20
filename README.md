@@ -10,7 +10,7 @@ I'm starting programmer
 Skills: С++
 
 - 🔭 I’m currently working on this page. 
-
+- 🌱 I’m currently learning
 
 
 
