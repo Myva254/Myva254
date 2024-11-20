@@ -17,7 +17,7 @@ I'm starting programmer
 ###
 
 <div align="center">
-  <img src="https://www.codewars.com/users/Myva254/badges/large&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://www.codewars.com/users/Myva254/badges/large"  />
 </div>
 
 ###
